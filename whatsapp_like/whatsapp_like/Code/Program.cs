@@ -8,16 +8,10 @@ namespace whatsapp_like
 {
     static class Program
     {
-        [STAThread]
-        static void Main(string[] args)
+        static void Main(string[] port)
         {
-            if (args.Length == 0)
-            {
-                MessageBox.Show("Please provide a port number as an argument.");
-                return;
-            }
 
-            if (!int.TryParse(args[0], out int port))
+            if (port.Length == 0 || !int.TryParse(port[0], out int portc))
             {
                 MessageBox.Show("Invalid port number.");
                 return;
@@ -25,7 +19,7 @@ namespace whatsapp_like
 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1(port));
+            Application.Run(new Form1(portc));
         }
     }
 

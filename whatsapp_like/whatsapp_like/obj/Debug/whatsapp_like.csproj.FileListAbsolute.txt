@@ -1,0 +1,10 @@
+C:\Users\Invitado1\Documents\GitHub\datos1_tarea1\whatsapp_like\whatsapp_like\bin\Debug\whatsapp_like.exe.config
+C:\Users\Invitado1\Documents\GitHub\datos1_tarea1\whatsapp_like\whatsapp_like\bin\Debug\whatsapp_like.exe
+C:\Users\Invitado1\Documents\GitHub\datos1_tarea1\whatsapp_like\whatsapp_like\bin\Debug\whatsapp_like.pdb
+C:\Users\Invitado1\Documents\GitHub\datos1_tarea1\whatsapp_like\whatsapp_like\obj\Debug\whatsapp_like.csproj.AssemblyReference.cache
+C:\Users\Invitado1\Documents\GitHub\datos1_tarea1\whatsapp_like\whatsapp_like\obj\Debug\whatsapp_like.Properties.Resources.resources
+C:\Users\Invitado1\Documents\GitHub\datos1_tarea1\whatsapp_like\whatsapp_like\obj\Debug\whatsapp_like.csproj.GenerateResource.cache
+C:\Users\Invitado1\Documents\GitHub\datos1_tarea1\whatsapp_like\whatsapp_like\obj\Debug\whatsapp_like.csproj.CoreCompileInputs.cache
+C:\Users\Invitado1\Documents\GitHub\datos1_tarea1\whatsapp_like\whatsapp_like\obj\Debug\whatsapp_like.exe
+C:\Users\Invitado1\Documents\GitHub\datos1_tarea1\whatsapp_like\whatsapp_like\obj\Debug\whatsapp_like.pdb
+C:\Users\Invitado1\Documents\GitHub\datos1_tarea1\whatsapp_like\whatsapp_like\obj\Debug\whatsapp_like.Form1.resources
